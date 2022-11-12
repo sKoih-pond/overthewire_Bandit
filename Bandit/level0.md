@@ -7,3 +7,4 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 
 ![Command breakdown](/Bandit/BanditAssets/intro.png)
 
+Entering the password `bandit0` will grant access into the lab.
