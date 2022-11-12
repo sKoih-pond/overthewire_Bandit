@@ -1,4 +1,4 @@
-# overthewire_wargames
+# Welcome
 
 Here are writeups to document my progress in the wargames from OverTheWire.
 
