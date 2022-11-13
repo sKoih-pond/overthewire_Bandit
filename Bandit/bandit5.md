@@ -15,4 +15,4 @@ We use the `file` command to determine the type for a given file. Here, we scope
 
 ![Finding](/Bandit/BanditAssets/bandit5b.png)
 
-ASCII text indicates a human-readable file type. After using the `cat` command on "-file07", we have the password for [Bandit 5](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit5.md).
+ASCII text indicates a human-readable file type. After using the `cat` command on "-file07", we have the password for [Bandit 5](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit6.md).

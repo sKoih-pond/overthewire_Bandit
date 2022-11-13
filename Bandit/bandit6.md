@@ -32,4 +32,4 @@ Now the fun part...
 `+ | grep -w "text"` The `+` is a delimiter which joins our results into a single output, which is piped to `grep` which only lists results matching for "text" as we are searching for ASCII text.
 
 
-After running the command, we have a single match for our search parameters and we obtain the password for [Bandit 6](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit6.md) from the file.
+After running the command, we have a single match for our search parameters and we obtain the password for [Bandit 6](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit7.md) from the file.

@@ -17,6 +17,6 @@ Here there are 2 ways to navigate the whitespace:<br>
 1. Using the `/` backslash character preserves the literal value of the following space
 2. Enclosing the filename in `" "` doublequotes will insert the phrase as a single string
 
-In both cases, `tab` auto-complete saves much trouble to obtain the key for the next lab, [Bandit 3](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit3.md).
+In both cases, `tab` auto-complete saves much trouble to obtain the key for the next lab, [Bandit 3](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit4.md).
 
 

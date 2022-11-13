@@ -15,4 +15,4 @@ After logging in with the password from the [Bandit 0](https://github.com/sKoih-
 
 `Ctrl + C` will exit and free standard input again.
 
-`cat ./-` specifies the cat command to open the "-" file from the current directory, which reveals the password for the next lab, [Bandit 2](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit2.md).
+`cat ./-` specifies the cat command to open the "-" file from the current directory, which reveals the password for the next lab, [Bandit 2](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit3.md).

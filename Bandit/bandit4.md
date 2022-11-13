@@ -13,4 +13,4 @@ Following the trend from [Bandit 2](https://github.com/sKoih-pond/overthewire_wa
 
 `ls -alR` saves us an extra step by recursively listing everything within the home directory.
 
-From here, we find the hidden file indicated by the `.` period, which contains the password for [Bandit 4](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit4.md).
+From here, we find the hidden file indicated by the `.` period, which contains the password for [Bandit 4](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit5.md).
