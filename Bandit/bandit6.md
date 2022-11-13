@@ -11,7 +11,7 @@ The password for the next level is stored in a file somewhere under the inhere d
 
 ## Walkthrough
 
-After using the password from [Bandit 5](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit5.md), `ls -al` displays the "inhere" directory, which contains 20 subdirectories to search for the password file. By now, we are familiar with the `ls` command and its optional parameters.
+After using the password from [Bandit 4](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit4.md), `ls -al` displays the "inhere" directory, which contains 20 subdirectories to search for the password file. By now, we are familiar with the `ls` command and its optional parameters.
 
 ![Screenshot](/Bandit/BanditAssets/bandit6.png)
 
@@ -32,4 +32,4 @@ Now the fun part...
 `+ | grep -w "text"` The `+` is a delimiter which joins our results into a single output, which is piped to `grep` which only lists results matching for "text" as we are searching for ASCII text.
 
 
-After running the command, we have a single match for our search parameters and we obtain the password for [Bandit 7](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit7.md) from the file.
+After running the command, we have a single match for our search parameters and we obtain the password for [Bandit 6](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit6.md) from the file.
