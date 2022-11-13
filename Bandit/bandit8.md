@@ -13,4 +13,7 @@ After login with the password from [Bandit 6](https://github.com/sKoih-pond/over
 
 Using the `head` command on the file displays its first 10 lines, which have random text followed by hash strings.
 
+<<<<<<< HEAD
+The `grep` command searches the file for any line which matches our input argument "millionth". This search is case sensitive and outputs a single match, which contains the password for [Bandit 8](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit9.md).
+=======
 The `grep` command searches the file for any line which matches our input argument "millionth". This search is case sensitive and outputs a single match, which contains the password for [Bandit 8](https://github.com/sKoih-pond/overthewire_wargames/blob/main/Bandit/bandit9.md).
