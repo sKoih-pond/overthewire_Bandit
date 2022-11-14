@@ -1,6 +1,6 @@
 # Welcome
 
-Here are writeups to document my progress in the wargames from OverTheWire.
+Here are writeups to document my progress in the Bandit lab from OverTheWire.
 
 Recommended for learning security concepts in a gamified manner.
 
